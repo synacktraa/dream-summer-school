@@ -3,4 +3,4 @@
 - 🦄 **Louwe the unicorn** — our faithful guardian
 - 🦁 **Simba the lion** — our tiny, mighty mascot
 
-![Simba the lion](simba.png)
+![Simba the lion](images/simba.png)
