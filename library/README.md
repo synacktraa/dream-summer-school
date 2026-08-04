@@ -1,4 +1,4 @@
 # Library
 
 - 📚 Cozy reading nook
-- 🕯️ Endless shelves of storybooks
+- 🐻 A copy of Winnie the Pooh
