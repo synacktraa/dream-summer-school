@@ -2,6 +2,8 @@
 
 This repo is a map of our ✨dream summer school✨ and everything in it.
 
+Our school has a [backyard](backyard/README.md) with a hydroponic farm and an Olympic sized swimming pool, a [rooftop](rooftop/README.md) with a flying fox to downtown, and even some [pets](PETS.md) to keep us company.
+
 ## Instructions
 
 1. Fork this repository.
