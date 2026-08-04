@@ -1,4 +1,4 @@
-# Dream Summer School
+# Dream Summer School 💭
 
 This repo is a map of our ✨dream summer school✨ and everything in it.
 
