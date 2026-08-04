@@ -2,6 +2,8 @@
 
 This repo is a map of our ✨dream summer school✨ and everything in it.
 
+Our school has a [backyard](backyard/README.md), a [rooftop](rooftop/README.md), and some [pets](PETS.md).
+
 ## Instructions
 
 1. Fork this repository.
@@ -10,15 +12,3 @@ This repo is a map of our ✨dream summer school✨ and everything in it.
 4. Make your changes.
 5. Push your branch to your fork: `git push origin <branch-name>`
 6. Open a Pull Request against this (the main) repository.
-
-## Repository contents
-
-```
-.
-├── README.md
-├── PETS.md
-├── backyard/
-│   └── README.md
-└── rooftop/
-    └── README.md
-```
