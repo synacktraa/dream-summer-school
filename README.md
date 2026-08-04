@@ -13,4 +13,12 @@ This repo is a map of our ✨dream summer school✨ and everything in it.
 
 ## Repository contents
 
-README.md
+```
+.
+├── README.md
+├── PETS.md
+├── backyard/
+│   └── README.md
+└── rooftop/
+    └── README.md
+```
