@@ -2,7 +2,7 @@
 
 This repo is a map of our ✨dream summer school✨ and everything in it.
 
-Our school has a [backyard](backyard/README.md) with a hydroponic farm and an Olympic sized swimming pool, a [rooftop](rooftop/README.md) with a flying fox to downtown, and even some [pets](PETS.md) to keep us company.
+Our school has a [backyard](backyard/README.md), a [rooftop](rooftop/README.md), and some [pets](PETS.md).
 
 ## Instructions
 
@@ -12,15 +12,3 @@ Our school has a [backyard](backyard/README.md) with a hydroponic farm and an Ol
 4. Make your changes.
 5. Push your branch to your fork: `git push origin <branch-name>`
 6. Open a Pull Request against this (the main) repository.
-
-## Repository contents
-
-```
-.
-├── README.md
-├── PETS.md
-├── backyard/
-│   └── README.md
-└── rooftop/
-    └── README.md
-```
