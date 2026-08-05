@@ -2,7 +2,7 @@
 
 This repo is a map of our ✨dream summer school✨ and everything in it.
 
-Our school has a [backyard](backyard/README.md), a [rooftop](rooftop/README.md), and some [pets](PETS.md) to keep us company.
+Our school has a [backyard](backyard/README.md), a [rooftop](rooftop/README.md), a [library](library/README.md), and some [pets](PETS.md) to keep us company.
 
 ## Instructions
 
